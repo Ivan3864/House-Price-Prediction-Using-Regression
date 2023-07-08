@@ -2,6 +2,7 @@
 
 ## Overview
 This project aims to develop a regression model to predict house prices in King County. By analyzing various features of the houses, we aim to provide homeowners, real estate professionals, and researchers with a tool to estimate the selling price of a house in the region.
+https://docs.google.com/presentation/d/1DhDgATvALcnUUT_XtywqXHbOPBEVtlzTWEc9xQDxOpA/edit?usp=sharing
 
 ## Business and Data Understanding
 The stakeholder audience for this project includes homeowners looking to sell their properties, real estate agents assisting with pricing decisions, and researchers studying the housing market in King County. The model can help homeowners determine an appropriate asking price, assist agents in setting competitive listing prices, and provide researchers with insights into the factors influencing house prices in the area.

@@ -20,6 +20,8 @@ Model 1: This model included sqft_living, sqft_living15, grade, and bathrooms as
 Model 2: This model excluded sqft_living15 due to its high correlation with other features. It achieved an R-squared value of 0.473, indicating that it can explain approximately 47.3% of the variability in house prices. The removal of the highly correlated feature improved the model's interpretability and robustness.
 
 Model 3: This model further refined the feature set by removing sqft_living15, which was highly correlated with sqft_living. It achieved an R-squared value of 0.537, indicating that it can explain approximately 53.7% of the variability in house prices. The model demonstrated better interpretability and addressed the issue of multicollinearity.
+![Performance Comparison](performance_plot.png)
+
 
 ## Conclusion
 In conclusion, the developed regression models provide a useful tool for estimating house prices in King County. The selected features, grade, sqft_living, and bathrooms, were found to have a significant impact on house prices. However, it's important to note that the models' predictions may not capture all the factors influencing house prices, and additional considerations such as location, amenities, and market trends should be taken into account.
